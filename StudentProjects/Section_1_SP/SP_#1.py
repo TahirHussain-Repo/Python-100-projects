@@ -13,5 +13,4 @@ for filename in filenames:
     os.rename(filepath, new_filepath)
     print(f"Renamed {filename} to {new_filename}")
 print("File renaming completed!")
-
      
